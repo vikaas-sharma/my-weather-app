@@ -3,7 +3,6 @@
 <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"> 
 
 ## Overview 👀
-<img src="img/img.png">
 
 - A simple weather app that uses AccuWeather api to grab weather data of a city
 - Minimalist design
